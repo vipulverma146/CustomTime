@@ -1,3 +1,1 @@
-# CustomTime
-
-https://replit.com/@YakshitJain/QContest-Java#Main.java
+# Custom Time
